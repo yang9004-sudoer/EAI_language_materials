@@ -23,3 +23,6 @@ Natural Language Understanding and Generation
 
 http://www.neural-symbolic.org/
   
+
+3D representation to 2D image
+https://mihirp1998.github.io/project_pages/emblang/
