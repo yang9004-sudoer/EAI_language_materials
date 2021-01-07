@@ -19,4 +19,7 @@ Classical Conditional:
   
   A Generative Model for Joint
 Natural Language Understanding and Generation
+
+
+http://www.neural-symbolic.org/
   
