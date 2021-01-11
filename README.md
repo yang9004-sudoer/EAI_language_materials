@@ -29,3 +29,8 @@ https://mihirp1998.github.io/project_pages/emblang/
 
 
 https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
+
+
+language informed RL
+
+
