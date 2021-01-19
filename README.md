@@ -40,3 +40,7 @@ AttendLight: Universal Attention-Based Reinforcement Learning Model for Traffic 
 
 How prior knowledge affects selective attention during category learning: An eyetracking study
 Download PDF
+
+
+
+How prior knowledge affects problem-solving performance in a medical simulation game: Using game-logs and eye-tracking
