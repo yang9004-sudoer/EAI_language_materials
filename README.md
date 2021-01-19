@@ -35,3 +35,8 @@ language informed RL
 
 
 AttendLight: Universal Attention-Based Reinforcement Learning Model for Traffic Signal Control
+
+
+
+How prior knowledge affects selective attention during category learning: An eyetracking study
+Download PDF
