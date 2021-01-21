@@ -34,6 +34,10 @@ https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
 language informed RL
 
 
+https://www.researchgate.net/post/Academic-Vocabulary-Useful-Phrases-and-Sentences-for-Academic-Writing-and-Research-Paper-Writing
+
+https://wordvice.com/recommended-verbs-for-research-writing/
+
 AttendLight: Universal Attention-Based Reinforcement Learning Model for Traffic Signal Control
 
 
