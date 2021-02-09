@@ -33,6 +33,8 @@ https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
 
 language informed RL
 
+https://larel-ws.github.io/
+
 
 https://www.researchgate.net/post/Academic-Vocabulary-Useful-Phrases-and-Sentences-for-Academic-Writing-and-Research-Paper-Writing
 
